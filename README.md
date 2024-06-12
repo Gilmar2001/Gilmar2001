@@ -2,7 +2,7 @@
 
 meu nome é Gilmar Junior
 
-- Estou estudando na alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javascript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
